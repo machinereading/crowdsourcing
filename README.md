@@ -15,7 +15,7 @@ Effective Crowdsourcing of Multiple Tasks for Comprehensive Information Extracti
 * [Co-reference resolution](https://github.com/machinereading/)
 * [Relation Extraction: PCNN and GAN](https://github.com/machinereading/)
 * [Relation Extraction: RL](https://github.com/machinereading/re-RL)
-* [Relation Extraction: BERT](https://github.com/machinereading/)
+* [Relation Extraction: BERT](https://github.com/machinereading/bert-ko-re/)
 
 ## External resources
 * [KBox](http://kbox.kaist.ac.kr)
