@@ -12,7 +12,7 @@ Effective Crowdsourcing of Multiple Tasks for Comprehensive Information Extracti
 
 ## Machine Learning Models
 * [Entity Linking](https://github.com/machinereading/eld-2018)
-* [Co-reference resolution](https://github.com/machinereading/)
+* [Co-reference resolution](https://github.com/machinereading/CR)
 * [Relation Extraction: PCNN and GAN](https://github.com/machinereading/re-gan)
 * [Relation Extraction: RL](https://github.com/machinereading/re-RL)
 * [Relation Extraction: BERT](https://github.com/machinereading/bert-ko-re/)
