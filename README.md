@@ -6,8 +6,8 @@ Effective Crowdsourcing of Multiple Tasks for Comprehensive Information Extracti
 ## Architecture
 <img src="./image/proc.png" alt="proc" style="width:20px;"/>
 
-## Crowdsourcing data
-* [Data link](https://figshare.com/)
+## Available dataset
+* [Crowdsourcing data and all other resources, such as pretrained embedding](https://figshare.com/)
 * [OKBQA KBP Task, Description and sample](https://github.com/machinereading/okbqa-7-task4)
 
 ## Machine Learning Models
