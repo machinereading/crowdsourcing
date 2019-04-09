@@ -2,7 +2,7 @@
 
 ## About
 Effective Crowdsourcing of Multiple Tasks for Comprehensive Information Extraction
-The source code in this repository is related to crowdsourcing tasks;
+The source code in this repository is related to each crowdsourcing tasks;
 1) Data preparation
 2) Data post-processing
 3) Quality evaluator
