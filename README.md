@@ -2,6 +2,13 @@
 
 ## About
 Effective Crowdsourcing of Multiple Tasks for Comprehensive Information Extraction
+The source code in this repository is related to crowdsourcing tasks;
+1) Data preparation
+2) Data post-processing
+3) Quality evaluator
+4) Other utility codes
+
+All other dataset and source code are listed below:
 
 ## Architecture
 <img src="./image/proc.png" alt="proc" style="width:20px;"/>
