@@ -14,7 +14,7 @@ All other dataset and source code are listed below:
 <img src="./image/proc.png" alt="proc" style="width:20px;"/>
 
 ## Available dataset
-* [Crowdsourcing data and all other resources, such as pretrained embedding](https://figshare.com/)
+* [Crowdsourcing data and all other resources, such as pretrained embedding](https://figshare.com/s/7367aeca244efae03068)
 * [OKBQA KBP Task, Description and sample](https://github.com/machinereading/okbqa-7-task4)
 
 ## Machine Learning Models
