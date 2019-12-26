@@ -36,4 +36,5 @@ All other dataset and source code are listed below:
 [Machine Reading Lab](http://mrlab.kaist.ac.kr/) @ KAIST
 
 ## Acknowledgement
-This work was supported by Institute for Information & communications Technology Promotion(IITP) grant funded by the Korea government(MSIT) (2013-0-00109, WiseKB: Big data based self-evolving knowledge base and reasoning platform)
+* This work was supported by Institute for Information & communications Technology Promotion(IITP) grant funded by the Korea government(MSIT) (2013-0-00109, WiseKB: Big data based self-evolving knowledge base and reasoning platform)
+* 2019년도 KI과학기술선도기초연구사업 (KI Science Technology Leading Primary Research)
