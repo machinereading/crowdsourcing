@@ -36,7 +36,7 @@ All other dataset and source code are listed below:
 [Machine Reading Lab](http://mrlab.kaist.ac.kr/) @ KAIST
 
 ## Citation
-* Effective Crowdsourcing of Multiple Tasks for Comprehensive Knowledge Extraction, LREC2020 (accepted)
+* Nam, Sangha, et al. "Effective Crowdsourcing of Multiple Tasks for Comprehensive Knowledge Extraction", LREC2020 (accepted)
 
 ## Acknowledgement
 * This work was supported by Institute for Information & communications Technology Promotion(IITP) grant funded by the Korea government(MSIT) (2013-0-00109, WiseKB: Big data based self-evolving knowledge base and reasoning platform)
