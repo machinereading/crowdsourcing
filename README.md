@@ -1,4 +1,4 @@
-# Crowdsourcing data and Machine learning models for Information Extraction
+# Crowdsourcing data and Machine learning models for Knowledge Extraction
 
 ## About
 Effective Crowdsourcing of Multiple Tasks for Comprehensive Information Extraction
